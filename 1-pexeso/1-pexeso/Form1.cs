@@ -98,7 +98,7 @@ namespace _1_pexeso
                 }
                 else
                 {
-                    // UX improvement, not in assingment
+                    // UX improvement, not in assignment
                     Task.Delay(500).Wait();
 
                     FirstButton.Text = "PEXESO";
