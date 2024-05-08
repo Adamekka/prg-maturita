@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 namespace _2_kviz
 {
-    internal readonly struct Question
+    internal struct Question
     {
         internal string Otazka { get; }
         internal string Odpoved1 { get; }
